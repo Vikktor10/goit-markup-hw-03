@@ -243,8 +243,8 @@ a {
  /* Чем мы заниемся */
  
  .section-work {
-   margin-top: 94px;
-   margin-bottom: 94px;
+   padding-top: 94px;
+   padding-bottom: 94px;
  }
  .section-title {
     font-weight: 700;
@@ -269,10 +269,9 @@ a {
  /* Our team */
 
  .section-team {
-   height: 648px;
-   background: #E5E5E5;
-   margin-top: 66px;
-   margin-bottom: 28px;
+   background: #F5F4FA;
+   padding-top: 94px;
+   padding-bottom: 94px;;
  }
 
  .section-title-team {
@@ -283,7 +282,7 @@ a {
    letter-spacing: 0.03em;
    color: #212121;
    margin-bottom: 50px;
-   padding-top: 94px;
+   
  }
 
  .team-list {
